@@ -1,0 +1,4 @@
+2 1
+Andrzej1 10 90 0 Sword 30 15 30
+Andrzej2 10 100 0 Sword 30 15 30
+Anrzej 10 80 0 Sword 30 15 30
